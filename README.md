@@ -32,6 +32,40 @@ I am a passionate Java developer focused on building real-world applications usi
 <img src="https://skillicons.dev/icons?i=maven" height="40"/> Maven  
 <img src="https://skillicons.dev/icons?i=eclipse" height="40"/> Eclipse IDE
 
+## 🚀 Tech Stack
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=java" height="40" align="center"/> **Java**
+
+<img src="https://skillicons.dev/icons?i=spring" height="40" align="center"/> **Spring Boot**
+
+<img src="https://skillicons.dev/icons?i=hibernate" height="40" align="center"/> **Hibernate**
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=angular" height="40" align="center"/> **Angular**
+
+<img src="https://skillicons.dev/icons?i=javascript" height="40" align="center"/> **JavaScript**
+
+<img src="https://skillicons.dev/icons?i=html" height="40" align="center"/> **HTML**
+
+<img src="https://skillicons.dev/icons?i=css" height="40" align="center"/> **CSS**
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql" height="40" align="center"/> **MySQL**
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git" height="40" align="center"/> **Git**
+
+<img src="https://skillicons.dev/icons?i=postman" height="40" align="center"/> **Postman**
+
+<img src="https://skillicons.dev/icons?i=maven" height="40" align="center"/> **Maven**
+
+<img src="https://skillicons.dev/icons?i=eclipse" height="40" align="center"/> **Eclipse IDE**
+
 ---
 
 ## 📂 Projects
