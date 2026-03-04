@@ -8,17 +8,9 @@ I am a passionate Java developer focused on building real-world applications usi
 
 ## 🚀 Tech Stack
 
-**Backend:**  
-Java | Spring Boot | Hibernate | REST APIs  
+## 🚀 Tech Stack
 
-**Frontend:**  
-Angular | JavaScript | HTML | CSS  
-
-**Database:**  
-MySQL  
-
-**Tools:**  
-Git | GitHub | Postman | Maven | Eclipse IDE
+![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,angular,javascript,html,css,mysql,git,postman,maven,eclipse)
 
 ---
 
@@ -57,18 +49,6 @@ Features
 - Table relationships
 - SQL queries
 - Normalization
-
----
-
-# 📈 GitHub Stats
-
-![Hariprasad GitHub stats](https://github-readme-stats.vercel.app/api?username=BharkarHariprasad&show_icons=true&theme=radical)
-
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=BharkarHariprasad&theme=radical)
 
 ---
 
