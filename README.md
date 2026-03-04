@@ -66,6 +66,21 @@ I am a passionate Java developer focused on building real-world applications usi
 
 <img src="https://skillicons.dev/icons?i=eclipse" height="40" align="center"/> **Eclipse IDE**
 
+## 🚀 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java" height="35"/> Java &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=spring" height="35"/> Spring Boot &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=hibernate" height="35"/> Hibernate &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=angular" height="35"/> Angular &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" height="35"/> JavaScript &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" height="35"/> HTML &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="35"/> CSS &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="35"/> MySQL &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="35"/> Git &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" height="35"/> Postman &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=maven" height="35"/> Maven &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=eclipse" height="35"/> Eclipse
+
 ---
 
 ## 📂 Projects
