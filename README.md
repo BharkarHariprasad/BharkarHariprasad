@@ -1,8 +1,9 @@
 # Hi 👋 I'm Hariprasad Bharkar
 
-### Java Full Stack Developer | Spring Boot | Angular | REST APIs | MySQL
+### Java Backend Developer | Spring Boot | REST APIs | MySQL
 
 I am a passionate Java developer focused on building real-world applications using **Java, Spring Boot, and Angular**.
+I build backend applications using Spring Boot and MySQL with focus on API design, authentication and database modeling.
 
 ---
 
@@ -13,6 +14,25 @@ I am a passionate Java developer focused on building real-world applications usi
 ---
 
 ## 📂 Projects
+
+### 📝 Blog Application (Spring Boot)
+
+REST API based blogging platform with JWT authentication.
+
+**Tech Stack:**  
+Java | Spring Boot | Hibernate | MySQL | Maven | Postman
+
+**Features**
+• JWT based authentication 
+• Create, update and delete blog posts  
+• Comment system  
+• Pagination support  
+• DTO based data transfer  
+• Global exception handling
+• Layered architecture
+• Controller / Service / Repository
+
+---
 
 ### 🛒 E-Commerce Platform (Servlet + JSP)
 
@@ -31,20 +51,18 @@ Java | Servlet | JSP | JDBC | MySQL | HTML | CSS | Apache Tomcat | Maven
 
 ---
 
-### 📝 Blog Application (Spring Boot)
+### 🏥 Hospital Management Database
 
-REST API based blog system developed using Spring Boot and MySQL.
+Relational database design project demonstrating structured database architecture.
 
 **Tech Stack:**  
-Java | Spring Boot | Hibernate | MySQL | Maven | Postman
+MySQL | SQL | Database Design
 
-**Features**
-• User authentication  
-• Create, update and delete blog posts  
-• Comment system  
-• Pagination support  
-• DTO based data transfer  
-• Global exception handling
+**Concepts Implemented**
+• Entity Relationship (ER) Diagram  
+• Table relationships using foreign keys  
+• Database normalization (1NF, 2NF, 3NF)  
+• Complex SQL queries for data retrieval
 
 ---
 
@@ -67,21 +85,6 @@ Java | Collections | File Handling | Exception Handling
 • Transaction history tracking  
 • Account status management  
 • Notification handling
-
----
-
-### 🏥 Hospital Management Database
-
-Relational database design project demonstrating structured database architecture.
-
-**Tech Stack:**  
-MySQL | SQL | Database Design
-
-**Concepts Implemented**
-• Entity Relationship (ER) Diagram  
-• Table relationships using foreign keys  
-• Database normalization (1NF, 2NF, 3NF)  
-• Complex SQL queries for data retrieval
 
 ---
 
