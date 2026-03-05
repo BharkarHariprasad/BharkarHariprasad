@@ -2,8 +2,7 @@
 
 ### Java Backend Developer | Spring Boot | REST APIs | MySQL
 
-I am a passionate Java developer focused on building real-world applications using **Java, Spring Boot, and Angular**.
-I build backend applications using Spring Boot and MySQL with focus on API design, authentication and database modeling.
+I build backend applications using **Spring Boot and MySQL** with focus on **API design, authentication and database modeling**.
 
 ---
 
