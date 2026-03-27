@@ -97,5 +97,10 @@ Java | Collections | File Handling | Exception Handling
 
 # 📫 Contact
 
+Hariprasad Bharkar  
+Java Backend Developer  
+
 📧 Email: bharkarhariprasad007@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/hariprasad007  
+💻 GitHub: https://github.com/BharkarHariprasad 
 📍 Location: Pune
