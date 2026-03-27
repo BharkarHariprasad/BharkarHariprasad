@@ -100,13 +100,7 @@ Java | Collections | File Handling | Exception Handling
 Hariprasad Bharkar  
 Java Backend Developer  
 
-<a href="mailto:bharkarhariprasad007@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="18"/> Email
-</a> |
-<a href="https://www.linkedin.com/in/hariprasad007" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18"/> LinkedIn
-</a> |
-<a href="https://github.com/BharkarHariprasad" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="18"/> GitHub
-</a> |
-📍 Pune
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="16"/> Email: bharkarhariprasad007@gmail.com  
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16"/> LinkedIn: https://www.linkedin.com/in/hariprasad007  
+<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="16"/> GitHub: https://github.com/BharkarHariprasad  
+<img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="16"/> Location: Pune
